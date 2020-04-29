@@ -1,0 +1,44 @@
+[
+	{
+		"id": 1,
+		"cafeName": "Gulu Gulu",
+		"address": "Jalan Raya Kebon Jeruk No.9, RT.1/RW.9, Kebon Jeruk, RT.6/RW.12, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+		"LAT": -6.2007652,  
+		"LNG":106.7825227,
+		"image":"https://github.com/chandratan03/MCS_Project_Images/blob/master/gulu%20gulu.jpg?raw=true"
+	},
+	{
+		"id": 2,
+		"cafeName": "Haus",
+		"address": "Jl. Kyai H. Syahdan No.8-105, RT.2/RW.11, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11480",
+		"LAT": -6.200887,  
+		"LNG":106.7848388,
+		"image":"https://github.com/chandratan03/MCS_Project_Images/blob/master/Haus.jpg?raw=true"
+	},
+	{
+		"id": 3,
+		"cafeName": "Kopi Janji Jiwa",
+		"address": "Jalan raya kebon jeruk kompleks mandala No.5 Kios unit C, RT.9/RW.15, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+		"LAT": -6.2015004,  
+		"LNG":106.7825358,
+		"image":"https://github.com/chandratan03/MCS_Project_Images/blob/master/kopi%20janji%20jiwa.jpg?raw=true"
+	},
+	{
+		"id": 4,
+		"cafeName": "Ole Cafe",
+		"address": "Jalan Raya Kebon Jeruk No.9, RT.1/RW.9, Kebon Jeruk, RT.6/RW.12, Palmerah, Kec. Palmerah, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530",
+		"LAT": -6.2007431,  
+		"LNG":106.7825146,
+		"image":"https://github.com/chandratan03/MCS_Project_Images/blob/master/ole%20cafe.jpg?raw=true"
+	},
+	{
+		"id": 1,
+		"cafeName": "What's Up Cafe",
+		"address": "Jl. Raya Kb. Jeruk Kemanggisan Grogol No.9, RT.1/RW.9, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11540",
+		"LAT": -6.2007431,  
+		"LNG":106.7825146,
+		"image":"https://github.com/chandratan03/MCS_Project_Images/blob/master/whatsup.png?raw=true"
+	}
+
+
+]
